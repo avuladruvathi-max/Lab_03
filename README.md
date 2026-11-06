@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Lab 3: SQLite Database and Advanced CRUD Operations
 
 ## 1. Student Details
@@ -12,7 +12,7 @@
 
 ## 2. Deployment URL
 
-**Live Application:**
+**Live Application:** http://lab-03-three.vercel.app
 
 ## 3. Objective
 
@@ -255,7 +255,3 @@ node app.js
 ## 14. Conclusion
 
 This lab helped me understand how to connect an Express.js application with an SQLite database and perform CRUD operations. I learned how to retrieve, add, update and delete book records using REST API routes. I also implemented searching, sorting, pagination and price filtering. Through Postman testing, I gained practical experience in API testing, input validation and error handling. I also learned how to organize project files using Git and GitHub.
-=======
-# Lab_03
-Node.js and Express.js lab with welcome, about, and time routes.
->>>>>>> 929a8c6869b93cc49f0dd652c29835c95058d0ed

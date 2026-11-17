@@ -251,6 +251,15 @@ node app.js
 `http://localhost:3000/`
 
 **Step 5:** Open Postman and test the API using the GET, POST, PUT and DELETE methods.
+## 15. Viva Questions and Answers
+
+**Q1. What is SQLite?**
+
+SQLite is a lightweight, serverless database used to store and manage data. In this project, it is used to store book records.
+
+**Q2. What are CRUD operations?**
+
+CRUD stands for Create, Read, Update and Delete. These operations are used to add, retrieve, modify and remove records from the database.
 
 ## 14. Conclusion
 

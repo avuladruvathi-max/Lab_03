@@ -251,7 +251,7 @@ node app.js
 `http://localhost:3000/`
 
 **Step 5:** Open Postman and test the API using the GET, POST, PUT and DELETE methods.
-## 15. Viva Questions and Answers
+## 14. Viva Questions and Answers
 
 **Q1. What is SQLite?**
 
@@ -261,6 +261,6 @@ SQLite is a lightweight, serverless database used to store and manage data. In t
 
 CRUD stands for Create, Read, Update and Delete. These operations are used to add, retrieve, modify and remove records from the database.
 
-## 14. Conclusion
+## 15. Conclusion
 
 This lab helped me understand how to connect an Express.js application with an SQLite database and perform CRUD operations. I learned how to retrieve, add, update and delete book records using REST API routes. I also implemented searching, sorting, pagination and price filtering. Through Postman testing, I gained practical experience in API testing, input validation and error handling. I also learned how to organize project files using Git and GitHub.
